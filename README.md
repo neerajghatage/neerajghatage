@@ -65,9 +65,9 @@ Data Structures & Algorithms, Object-Oriented Programming, Database Management S
   *[GitHub Link](https://github.com/neerajghatage/Kubescale) | [Demo](https://drive.google.com/drive/folders/1BwiClpP-vdeAmNBedWCPOTsxASKrgGOb)*  
   -  Implemented a cloud transition of a web application, enabling rapid feature deployment and scalable infrastructure to meet growing customer demands in a competitive market..
   - Executed containerization and versioning strategies with a CI/CD pipeline triggered by GitHub webhooks, automating manual processes and decreasing deployment time by 50%.
-- Optimized container runtime performance, improving start-up times by 30% and enabling more efficient resource utilization
-- Improved Kubernetes deployment processes by packaging manifest files with Helm.
-- Architected a high-availability Kubernetes cluster on Azure Kubernetes Service, achieving 99.9% uptime and supporting 10,000 concurrent users while reducing overall system downtime by 60%
+  - Optimized container runtime performance, improving start-up times by 30% and enabling more efficient resource utilization
+  - Improved Kubernetes deployment processes by packaging manifest files with Helm.
+  - Architected a high-availability Kubernetes cluster on Azure Kubernetes Service, achieving 99.9% uptime and supporting 10,000 concurrent users while reducing overall system downtime by 60%
   - Technologies:  Docker, CI/CD pipelines (Jenkins), Kubernetes, Helm, CRI-O (Runtime), Azure Kubernetes Service (AKS)
 
 ---
