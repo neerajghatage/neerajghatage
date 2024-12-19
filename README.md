@@ -44,9 +44,9 @@ Data Structures & Algorithms, Object-Oriented Programming, Database Management S
 
 ### 💼 Work Experience
 
-- **Vikrami Cloud | Cloud Data Intern**  
+- **Vikrami Cloud | Data Engineer Intern**  
   *February 2024 - April 2024 | Remote*  
-  - Collaborated with cloud expert Mr. Amar Kalvikatte to design and implement data integration solutions, building pipelines in Azure Data Factory utilizing various Azure services.
+  - Designed and implemented data integration solutions, building ETL pipelines in Azure Data Factory utilizing various Azure services.
   - Developed automated file management and data conversion pipelines, reducing manual efforts and enhancing data interoperability.
   - Engineered data comparison and REST API integration systems, enhancing data accuracy by 95%.
 
