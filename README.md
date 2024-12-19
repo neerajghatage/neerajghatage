@@ -15,16 +15,19 @@ I'm a cloud DevOps & backend enthusiast and Computer Engineering student at Pune
 ### 🔧 Technical Skills
 
 #### Languages
-C++, Python, SQL, JavaScript, Java
+C++, SQL, JavaScript, Java
 
 #### Web Development
 Node.js, Express.js, React.js, HTML, CSS, RESTful API, Postman
 
-#### Cloud & Databases
-AWS, Azure, MySQL, MongoDB
+#### Cloud
+AWS, Azure
+
+#### Databases
+MySQL, MongoDB
 
 #### DevOps
-Docker, Kubernetes, CI/CD pipelines
+Docker, Kubernetes, CI/CD pipelines, Jenkins, Prometheus, Grafana
 
 #### Relevant Coursework
 Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks
