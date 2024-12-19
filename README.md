@@ -53,23 +53,22 @@ Data Structures & Algorithms, Object-Oriented Programming, Database Management S
 
 - **SECUREPULSE - Dynamic DevSecOps Pipeline Integration**  
   *[GitHub Link](https://github.com/neerajghatage/DevSecOps) | [Demo](https://drive.google.com/drive/folders/1kcWv1tBpmAdsr6ZNmUahGSq5HKv3Z24Z)*  
-  - Implemented a DevSecOps project to address critical industry security standards, enhancing application security.
+  - Implemented a DevSecOps project to address critical industry security standards, enhancing application security and integrating security practices throughout the development process.
   - Executed an end-to-end CI/CD pipeline, streamlining build-test-deploy processes and reducing deployment time by 70%.
-  - Established GitOps workflow for automated, version-controlled deployments, increasing deployment accuracy.
-  - Integrated tools like SonarQube, Trivy, and OWASP to improve code quality and security.
+  - Established GitOps workflow for automated, version-controlled deployments, increasing deployment accuracy and reducing manual errors, while containerizing and deploying to Azure Kubernetes Service.
+  -  Implemented DevSecOps practices, enhancing code quality by 40% and reducing vulnerabilities by 60% through integration of SonarQube for code analysis, Trivy for container scanning, and OWASP for security testing.
+  - Optimized system performance by implementing full-stack monitoring and observability.
   - Technologies: Docker, Jenkins, ArgoCD, SonarQube, Trivy, OWASP, Kubernetes, Prometheus, Grafana, Azure Kubernetes Service (AKS).
 
-- **GOFOOD - Hunger’s Handy Helper**  
-  *[GitHub Link](https://github.com/neerajghatage/GoFood1.0/tree/master)*  
-  - Built a MERN stack food ordering system with secure user authentication using JWT Token and Bcrypt.js.
-  - Integrated Amazon S3 for efficient storage of recipe images.
-  - Technologies: MongoDB, Express.js, React.js, Node.js, AWS S3.
 
 - **KUBESCALE - Containerized Web App Scaling on AKS**  
   *[GitHub Link](https://github.com/neerajghatage/Kubescale) | [Demo](https://drive.google.com/drive/folders/1BwiClpP-vdeAmNBedWCPOTsxASKrgGOb)*  
-  - Transitioned a web application to the cloud, enabling scalable infrastructure and rapid feature deployment.
-  - Achieved 99.9% uptime with a high-availability Kubernetes cluster on Azure Kubernetes Service.
-  - Technologies: Docker, Kubernetes, Helm, Azure Kubernetes Service (AKS).
+  -  Implemented a cloud transition of a web application, enabling rapid feature deployment and scalable infrastructure to meet growing customer demands in a competitive market..
+  - Executed containerization and versioning strategies with a CI/CD pipeline triggered by GitHub webhooks, automating manual processes and decreasing deployment time by 50%.
+- Optimized container runtime performance, improving start-up times by 30% and enabling more efficient resource utilization
+- Improved Kubernetes deployment processes by packaging manifest files with Helm.
+- Architected a high-availability Kubernetes cluster on Azure Kubernetes Service, achieving 99.9% uptime and supporting 10,000 concurrent users while reducing overall system downtime by 60%
+  - Technologies:  Docker, CI/CD pipelines (Jenkins), Kubernetes, Helm, CRI-O (Runtime), Azure Kubernetes Service (AKS)
 
 ---
 
